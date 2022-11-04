@@ -2,4 +2,6 @@
 
 1. <https://www.youtube.com/watch?v=ILupVbhvyNQ>
 
-2. ![캡쳐](screenshot.gif)
+2. <https://hyundai-sangho.github.io/superHeroSearch/>
+
+3. ![캡쳐](screenshot.gif)
